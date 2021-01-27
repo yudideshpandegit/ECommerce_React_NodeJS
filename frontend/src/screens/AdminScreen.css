@@ -1,0 +1,8 @@
+.edit__link {
+  color: blue;
+  cursor: pointer;
+}
+
+.edit__link:hover {
+  text-decoration: underline;
+}

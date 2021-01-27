@@ -1,0 +1,25 @@
+.list-group-item{
+    border: 0 !important;
+}
+
+.product__description{
+    font-size: 20px;
+}
+
+.product__price{
+    font-size: 50px;
+}
+
+.product__basket{
+    width: 100% !important;
+    margin: 0 !important;
+}
+
+.product__stock{
+    padding: 10px;
+    border: 0;
+}
+
+.product__stock:active{
+    border: 0;
+}
